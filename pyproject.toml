@@ -1,6 +1,6 @@
 [project]
 name = "copy-ai-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "A MCP server for Copy.ai."
 authors = [
     {name = "yanrujing", email = "rujing.yan@protagonist-ai.com"}
